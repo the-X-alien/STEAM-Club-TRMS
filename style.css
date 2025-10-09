@@ -3,7 +3,7 @@ body {
   background: #9CFFF7;
   color: #F6FEFF;
   font-weight: bold;
-  -webkit-text-stroke: 0.2px #013B45;
+  -webkit-text-stroke: 0.5px #013B45;
 }
 
 .footer {
