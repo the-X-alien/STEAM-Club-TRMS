@@ -1,9 +1,8 @@
 body {
   text-align: center;
-  background: #9CFFF7;
+  background: linear-gradient(to right #49FFF0, #49F9FF, #49FFFF, #4CF0FF, #4CDBFF, #4CBEFF, #4CB7FF;
   color: #F6FEFF;
   font-weight: bold;
-  -webkit-text-stroke: 0.1px #013B45;
   font-family: "Nunito", sans-serif;
   font-optical-sizing: auto;
 }
