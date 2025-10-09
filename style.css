@@ -3,7 +3,7 @@ body {
   background: #9CFFF7;
   color: #F6FEFF;
   font-weight: bold;
-  -webkit-text-stroke: auto #013B45;
+  -webkit-text-stroke: 0.1px #013B45;
   font-family: "Nunito", sans-serif;
   font-optical-sizing: auto;
 }
