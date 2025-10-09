@@ -14,6 +14,15 @@ body {
   width: 100%;
   text-align: center;
   border-radius: 7px;
-  
+
+  .glass {
+  position: relative;
+  backdrop-filter: blur(2px) saturate(180%);
+  border: 1px solid #FFFFFF;
+  border-radius: 2rem;
+  box-shadow: 0 8px 32px rgba(31, 38, 135, 0.2), 
+              inset 0 4px 20px #FFFFFF;
+}
+
 
   
