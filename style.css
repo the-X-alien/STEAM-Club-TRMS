@@ -8,6 +8,7 @@ body {
 }
 
 .footer {
+  background: linear-gradient(to right, #49FFF0, #49F9FF, #49FFFF, #4CF0FF, #4CDBFF, #4CBEFF, #4CB7FF);
   display: inline-block;
   border-radius: 5px;
   padding: 12px 24px;
