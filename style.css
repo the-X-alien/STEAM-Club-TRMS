@@ -8,6 +8,9 @@ body {
 }
 
 .footer {
+  display: inline-block;
+  border-radius: 5px;
+  padding: 12px 24px;
   position: fixed;
   bottom: 0;
   left: 0;
@@ -17,7 +20,7 @@ body {
 }
 
 .button {
-  opacity: 75%;
+  opacity: 90%;
   display: inline-block;
   background: #00bcd4;
   color: white;
